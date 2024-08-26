@@ -1,0 +1,22 @@
+body {
+  background-image: url(Bilder/360_F_535473874_OWCa2ohzXXNZgqnlzF9QETsnbrSO9pFS.jpg);
+  background-size: cover;
+}
+
+h1 {
+  color: white;
+  border-bottom: 5px solid white;
+}
+
+p {
+  color: white;
+  border: 5px solid white;
+}
+
+a {
+  border: 3px solid white;
+}
+
+.koala {
+  left: 100px;
+}
